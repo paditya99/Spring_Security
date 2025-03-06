@@ -1,4 +1,4 @@
-package com.security.SecureProject;
+package com.security.SecureProject.model;
 
 public class Student {
 	
